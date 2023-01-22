@@ -6,7 +6,9 @@ Avant de commencer je vous invite personnelemment a repasser par le notion "revi
 
 Vos meilleurs allies durant tout JS sera console.log et typeOf.
 L'un pour afficher ce que vous faites et l'autre pour connaitre le type (on reviendra sur les types plus tard) que vous affichez.
-====
+
+
+
 # les variables
 
 ```
