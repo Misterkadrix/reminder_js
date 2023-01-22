@@ -11,7 +11,7 @@ let cours_rates = 0;
 // Ok. Premier probleme on recoit un string avec % ce qui nous interesse pas(On veut un number).
 // Pour se faire on utilise substring (permet de supprimer n'importe quel caractere) cette fonction attends 2 parametre
 // Le premier parametre la ou on va commencer a suppriner le second la ou on va s'arreter.
-// Ici j'ai besoin de supprimer a partir du 2 ieme caractere et pas plus (d'ou le 0).  
+// Ici j'ai besoin de supprimer a partir du 3 ieme caractere et pas plus (d'ou le 0).  
 cours_math = parseInt(cours_math.substring(2,0))
 cours_francais = parseInt(cours_francais.substring(2,0))
 cours_math = parseInt(cours_anglais.substring(2,0))
