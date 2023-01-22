@@ -1,10 +1,11 @@
 // Ce code sera optimise au fur et a mesure
-
+// Ce programme consiste a savoir quels cours vous avez reussis.
 let cours_math = '25%';
 let cours_francais = '50%';
 let cours_anglais = '60%';
 let cours_reussis = 0;
 let cours_rates = 0;
+
 
 
 cours_math = parseInt(cours_math.substring(2,0))

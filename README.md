@@ -36,11 +36,11 @@ let total = somme1 + somme2;
 console.log(`${somme1} + ${somme2} + ${total}`);
 
 ```
-====
+
 
 # les types de variables
 
-c'est ce qui va permettre de mieux comprendre ce que notre code va retourner et du coup mieux comprendre prq il peut
+C'est ce qui va permettre de mieux comprendre ce que notre code va retourner et du coup mieux comprendre prq il peut
 y avoir des bugs si on utilise une fonction qui attends un string mais qu'on lui donne en parametre tout autre type.
 
 ```
@@ -81,6 +81,8 @@ console.log(typeof rien); //renvoi un type Object
 
 ```
 # Les comparateurs
+Compare une variable a une autre et en ressort une reponse true or false.
+Cette reponse sera utile dans les conditions.
 
 ```
 // == / === égalité
